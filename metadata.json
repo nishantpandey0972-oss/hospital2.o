@@ -1,0 +1,6 @@
+{
+  "name": "Aradhya And Matulya Child Care Hospital",
+  "description": "Official hospital portal for Aradhya And Matulya Child Care Hospital in Deoria, UP — 24x7 NICU, PICU, Pediatric Care, Surgical Services, and Online Appointment Booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
